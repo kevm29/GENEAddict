@@ -19,7 +19,7 @@ Accéder au TD : Clic-droit "Enregistrer le lien sous ..." [Lien](https://github
 
 Accéder au TD : Clic-droit "Enregistrer le lien sous ..." [Lien](https://github.com/kevm29/GENEAddict/blob/main/TP5-AntoineGALICHET.pdf)
 
-## TD6 - début XVIIIe - Prest-a-boire et sa testicule gonflée
+## TD6 - début XVIIIe - Prest-a-boire et son hydrocèle
 
 Accéder au TD : Clic-droit "Enregistrer le lien sous ..." [Lien](https://github.com/kevm29/GENEAddict/blob/main/TP6-PrestABoire.pdf)
 
@@ -27,6 +27,6 @@ Accéder au TD : Clic-droit "Enregistrer le lien sous ..." [Lien](https://github
 
 Accéder au TD : Clic-droit "Enregistrer le lien sous ..." [Lien](https://github.com/kevm29/GENEAddict/blob/main/TP7-VincentMAGOUET.pdf)
 
-## TD8 - La prostituée
+## TD8 - fin XIXe - Marie Augustine POCHARD, belle-de-nuit
 
 Accéder au TD : Clic-droit "Enregistrer le lien sous ..." [Lien](https://github.com/kevm29/GENEAddict/blob/main/TP8-MarieAugustinePOCHARD.pdf)
